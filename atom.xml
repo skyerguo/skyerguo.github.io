@@ -6,44 +6,25 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-29T07:10:47.904Z</updated>
+  <updated>2020-09-29T10:05:59.256Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Publications</title>
-    <link href="http://example.com/2020/09/29/Publications/"/>
-    <id>http://example.com/2020/09/29/Publications/</id>
-    <published>2020-09-29T06:48:13.000Z</published>
-    <updated>2020-09-29T07:10:47.904Z</updated>
+    <title></title>
+    <link href="http://example.com/Awards/"/>
+    <id>http://example.com/Awards/</id>
+    <published>2020-09-29T10:05:42.000Z</published>
+    <updated>2020-09-29T10:05:59.256Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Write-Something"><a href="#Write-Something" class="headerlink" title="Write Something"></a>Write Something</h1><h2 id="随便写点东西"><a href="#随便写点东西" class="headerlink" title="随便写点东西"></a>随便写点东西</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Write-Something&quot;&gt;&lt;a href=&quot;#Write-Something&quot; class=&quot;headerlink&quot; title=&quot;Write Something&quot;&gt;&lt;/a&gt;Write Something&lt;/h1&gt;&lt;h2 id=&quot;随便写点东西&quot;&gt;&lt;a hr</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Homepage</title>
-    <link href="http://example.com/2020/09/29/Homepage/"/>
-    <id>http://example.com/2020/09/29/Homepage/</id>
-    <published>2020-09-29T06:24:17.000Z</published>
-    <updated>2020-09-29T06:41:54.769Z</updated>
-    
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a first-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a first-year M.S. student at Fudan Universit</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Awards&lt;/font&gt;&lt;/p&gt;
+</summary>
       
     
     
@@ -53,20 +34,18 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2020/09/29/Tiancheng%20Guo/"/>
-    <id>http://example.com/2020/09/29/Tiancheng%20Guo/</id>
-    <published>2020-09-28T16:18:01.000Z</published>
-    <updated>2020-09-28T16:34:37.694Z</updated>
+    <link href="http://example.com/Research/"/>
+    <id>http://example.com/Research/</id>
+    <published>2020-09-29T07:56:38.000Z</published>
+    <updated>2020-09-29T10:34:35.836Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=6>Tiancheng Guo</font></p><p>Department of Computer Science and Technology  </p><p>Fudan University  </p><p>Email: tcguo20 at fudan.edu.cn  </p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We proposed network routing structure based on user demands for global and regional distributed data centers.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat miniprogram to collect data from non-profile grassroots community work and analyze the activities and futher social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><!-- <font face="STCAIYUN" size=4 style="font-weight:bold;">One Thumb Keyboard Input</font><span class="date"> Jul 2019 - Dec 2019 </span>  -->]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=6&gt;Tiancheng Guo&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;Department of Computer Science and Technology  &lt;/p&gt;
-&lt;p&gt;Fudan University  &lt;/p&gt;
-&lt;p</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Research&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=4 style=&quot;font-weight:bolder;&quot;&gt;Deep Graph Convolutio</summary>
       
     
     
@@ -75,18 +54,59 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/09/28/hello-world/"/>
-    <id>http://example.com/2020/09/28/hello-world/</id>
-    <published>2020-09-28T02:55:45.713Z</published>
-    <updated>2020-09-28T02:55:45.714Z</updated>
+    <title></title>
+    <link href="http://example.com/Experiment/"/>
+    <id>http://example.com/Experiment/</id>
+    <published>2020-09-29T07:56:23.000Z</published>
+    <updated>2020-09-29T10:06:50.119Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Experiment</font></p><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>B.S. in School of Computer Science <span class="date"> Sep 2016 – Jun 2020</span><br>Research intern at the <a href="http://fudan-msn.weebly.com/">Mobile Systems and Networking (MSN) Group</a>, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Nov 2017 – Now</span></p><hr><p><strong>The Hong Kong University of Science and Technology</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Hong Kong, China</em><br>Research intern at the <a href="http://symlab.ust.hk/index.html">HKUST-DT System and Media Laboratory (SyMLab)</a> co-advised by Prof. <a href="http://www.cse.ust.hk/~panhui/">Pan Hui</a> and Prof. <a href="https://plhlee2010.wixsite.com/work">PAUL L.H. LEE</a> <span class="date"> Jul 2019 – Aug 2019</span></p><hr><p><strong>University of Amsterdam</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Amsterdam, The Nethelands</em><br>Exchange student in School of Science <span class="date"> Sep 2018 – Jan 2019</span></p><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Experiment&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fudan University&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Shanghai, Chin</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/Publications/"/>
+    <id>http://example.com/Publications/</id>
+    <published>2020-09-29T06:48:13.000Z</published>
+    <updated>2020-09-29T08:49:22.448Z</updated>
+    
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font><br><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>To appear: Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020. (Acceptance ratio: 193/920=20.97%)<br><a href="https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf">[pdf]</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Publications&lt;/font&gt;&lt;br&gt;&lt;strong&gt;Deep Graph Convolutional Networks for Incident-driven Traffic Speed Pr</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Homepage</title>
+    <link href="http://example.com/Homepage/"/>
+    <id>http://example.com/Homepage/</id>
+    <published>2020-09-29T06:24:17.000Z</published>
+    <updated>2020-09-29T10:16:54.397Z</updated>
+    
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a first-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font><br><font face="STCAIYUN" size=5></p><ul><li>Social Computing  </li><li>Network  </li><li>Urban Mobility  </li></ul></font><h4 id="Latest-Upate-Sep-29-2020"><a href="#Latest-Upate-Sep-29-2020" class="headerlink" title="Latest Upate: Sep 29, 2020"></a>Latest Upate: Sep 29, 2020</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a first-year M.S. student at Fudan Universit</summary>
       
     
     

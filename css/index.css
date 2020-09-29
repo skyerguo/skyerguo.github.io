@@ -1,3 +1,12 @@
+.date {
+  color: #a52a2a;
+  float: right;
+}
+.research_title {
+  font-family: STCAIYUN;
+  size: 4;
+  font-weight: bold;
+}
 .page pre,
 .page .highlight {
   overflow: auto;
