@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-29T10:05:59.256Z</updated>
+  <updated>2020-09-29T12:35:10.960Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,15 +16,15 @@
     <link href="http://example.com/Awards/"/>
     <id>http://example.com/Awards/</id>
     <published>2020-09-29T10:05:42.000Z</published>
-    <updated>2020-09-29T10:05:59.256Z</updated>
+    <updated>2020-09-29T12:35:10.960Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics. 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces. 2015</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Awards&lt;/font&gt;&lt;/p&gt;
-</summary>
+&lt;p&gt;&lt;em&gt;Champion&lt;/em&gt;, Fudan Collegiate Programming Contest, 2017&lt;br&gt;&lt;em&gt;Third Prize</summary>
       
     
     
@@ -37,9 +37,9 @@
     <link href="http://example.com/Research/"/>
     <id>http://example.com/Research/</id>
     <published>2020-09-29T07:56:38.000Z</published>
-    <updated>2020-09-29T10:34:35.836Z</updated>
+    <updated>2020-09-29T12:12:20.988Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We proposed network routing structure based on user demands for global and regional distributed data centers.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat miniprogram to collect data from non-profile grassroots community work and analyze the activities and futher social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><!-- <font face="STCAIYUN" size=4 style="font-weight:bold;">One Thumb Keyboard Input</font><span class="date"> Jul 2019 - Dec 2019 </span>  -->]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We proposed network routing structure based on user demands for global and regional distributed data centers.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat miniprogram to collect data from non-profile grassroots community work and analyze the activities and futher social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">One Thumb Miniature-Size Keyboard on Touchscreen Interface</font><span class="date"> Jul 2019 - Nov 2019 </span><br><font face="Verdana" size=3/> An new text input method with one thumb is proposed by us for miniature-size keyboard, improving user experience with detailed user studies..</p>]]></content>
     
     
       
