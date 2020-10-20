@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-29T16:31:10.699Z</updated>
+  <updated>2020-10-20T08:49:46.992Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,15 +16,15 @@
     <link href="http://example.com/Awards/"/>
     <id>http://example.com/Awards/</id>
     <published>2020-09-29T10:05:42.000Z</published>
-    <updated>2020-09-29T16:31:10.699Z</updated>
+    <updated>2020-10-20T08:49:46.992Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics, 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces, 2015</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics, 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces, 2015</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Awards&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Champion&lt;/em&gt;, Fudan Collegiate Programming Contest, 2017&lt;br&gt;&lt;em&gt;Third Prize</summary>
+&lt;p&gt;&lt;em&gt;First Prize&lt;/em&gt;, Fudan Excellent Academic Scholarship for Master Students, </summary>
       
     
     
