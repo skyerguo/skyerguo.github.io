@@ -79,9 +79,9 @@
     <link href="http://example.com/Publications/"/>
     <id>http://example.com/Publications/</id>
     <published>2020-09-29T06:48:13.000Z</published>
-    <updated>2020-09-29T10:39:36.910Z</updated>
+    <updated>2020-10-24T03:26:21.714Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font><br><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>To appear: Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf">[pdf]</a></p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font><br><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>To appear: Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf">[pdf]</a><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[video]</a></p>]]></content>
     
     
       
