@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-20T08:49:46.992Z</updated>
+  <updated>2021-11-06T06:12:02.270Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,9 +16,9 @@
     <link href="http://example.com/Awards/"/>
     <id>http://example.com/Awards/</id>
     <published>2020-09-29T10:05:42.000Z</published>
-    <updated>2020-10-20T08:49:46.992Z</updated>
+    <updated>2021-11-06T06:12:02.270Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics, 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces, 2015</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2021<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics, 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces, 2015</p>]]></content>
     
     
       
@@ -79,14 +79,15 @@
     <link href="http://example.com/Publications/"/>
     <id>http://example.com/Publications/</id>
     <published>2020-09-29T06:48:13.000Z</published>
-    <updated>2020-10-24T03:26:21.714Z</updated>
+    <updated>2021-11-06T06:12:29.718Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font><br><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>To appear: Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf">[pdf]</a><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[video]</a></p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font></p><p><strong>Polygon: A QUIC-Based CDN Server Selection System Supporting Multiple Resource Demands.</strong><br>Mengying Zhou, <strong>Tiancheng Guo</strong>, Yang Chen, Junjie Wan, Xin Wang.<br>Proc. of the 22nd ACM/IFIP Middleware Conference (Middleware’21), Industry Track, Virtual Event, Canada, Dec. 2021.<br><a href="https://user.informatik.uni-goettingen.de/~ychen/papers/Polygon-Middleware21.pdf">[pdf]</a></p><p><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://raw.githubusercontent.com/chenyang03/chenyang03.github.io/master/papers/2020-GCN-Traffic-CIKM20.pdf">[pdf]</a><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[video]</a></p><p><strong>基于帖文级特征融合的社交网络谣言检测方法</strong><br>余潇龙, <strong>郭天成</strong>, 陈阳, 王新<br>录用待发表. 计算机应用与软件.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Publications&lt;/font&gt;&lt;br&gt;&lt;strong&gt;Deep Graph Convolutional Networks for Incident-driven Traffic Speed Pr</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Publications&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polygon: A QUIC-Based CDN Server Selection System Supporting Multi</summary>
       
     
     
@@ -99,9 +100,9 @@
     <link href="http://example.com/Homepage/"/>
     <id>http://example.com/Homepage/</id>
     <published>2020-09-29T06:24:17.000Z</published>
-    <updated>2020-10-20T08:56:58.624Z</updated>
+    <updated>2021-11-06T06:32:05.682Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a first-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font></p><ul><li><font face="STCAIYUN" size=5> Social Computing </font></li><li><font face="STCAIYUN" size=5> Network  </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Oct-20-2020"><a href="#Latest-Upate-Oct-20-2020" class="headerlink" title="Latest Upate: Oct 20, 2020"></a>Latest Upate: Oct 20, 2020</h4>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a first-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font></p><ul><li><font face="STCAIYUN" size=5> Social Computing </font></li><li><font face="STCAIYUN" size=5> Network Portocal(QUIC) </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Nov-6-2021"><a href="#Latest-Upate-Nov-6-2021" class="headerlink" title="Latest Upate: Nov 6, 2021"></a>Latest Upate: Nov 6, 2021</h4>]]></content>
     
     
       
