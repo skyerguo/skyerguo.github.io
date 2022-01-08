@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-06T06:12:02.270Z</updated>
+  <updated>2022-01-08T03:56:01.750Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,9 +16,9 @@
     <link href="http://example.com/Awards/"/>
     <id>http://example.com/Awards/</id>
     <published>2020-09-29T10:05:42.000Z</published>
-    <updated>2021-11-06T06:12:02.270Z</updated>
+    <updated>2022-01-08T03:56:01.750Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2021<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics, 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad, 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces, 2015</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2021<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics(NOI), 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad(APIO), 2015<br><em>Sliver Medal</em>, China Team Selection Competition(CTSC), 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces(NOIP), 2015</p>]]></content>
     
     
       
@@ -37,15 +37,15 @@
     <link href="http://example.com/Research/"/>
     <id>http://example.com/Research/</id>
     <published>2020-09-29T07:56:38.000Z</published>
-    <updated>2020-09-29T12:47:37.037Z</updated>
+    <updated>2022-01-08T04:09:31.268Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We improve network routing structure on global and regional distributed data centers based on user demands.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat mini-program to collect data from non-profile grassroots community work and analyze the social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">One Thumb Miniature-Size Keyboard on Touchscreen Interface</font><span class="date"> Jul 2019 - Nov 2019 </span><br><font face="Verdana" size=3/> A new text input method with one thumb is proposed by us for miniature-size keyboard, improving user experience with detailed user studies.</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We improve network routing structure on global and regional distributed data centers based on user demands.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat mini-program to collect data from non-profile grassroots community work and analyze the social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">One Thumb Miniature-Size Keyboard on Touchscreen Interface</font><span class="date"> Jul 2019 - Nov 2019 </span><br><font face="Verdana" size=3/> A new text input method with one thumb is proposed by us for miniature-size keyboard, improving user experience with detailed user studies.</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Research&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=4 style=&quot;font-weight:bolder;&quot;&gt;Deep Graph Convolutio</summary>
+&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=4 style=&quot;font-weight:bolder;&quot;&gt;User Awareness-Based </summary>
       
     
     
@@ -58,9 +58,9 @@
     <link href="http://example.com/Experiment/"/>
     <id>http://example.com/Experiment/</id>
     <published>2020-09-29T07:56:23.000Z</published>
-    <updated>2020-12-08T05:37:16.208Z</updated>
+    <updated>2022-01-08T04:11:52.303Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Experiment</font></p><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>Master in School of Computer Science</p><p>Master of Science at the SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Sep 2020 – Now</span></p><hr><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>B.S. in School of Computer Science(Honor Class)</p><p>Research intern at SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Nov 2017 – Jun 2020 </span></p><hr><p><strong>The Hong Kong University of Science and Technology</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Hong Kong, China</em></p><p>Research intern at the <a href="http://symlab.ust.hk/index.html">HKUST-DT System and Media Laboratory (SyMLab)</a> co-advised by Prof. <a href="http://www.cse.ust.hk/~panhui/">Pan Hui</a> and Prof. <a href="https://plhlee2010.wixsite.com/work">PAUL L.H. LEE</a> <span class="date"> Jul 2019 – Aug 2019</span></p><hr><p><strong>University of Amsterdam</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Amsterdam, The Nethelands</em></p><p>Exchange student in School of Science <span class="date"> Sep 2018 – Jan 2019</span></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Experiment</font></p><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>Master of Philosophy in School of Computer Science</p><p>Master of Philosophy at the SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Sep 2020 – Now</span></p><hr><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>B.S. in School of Computer Science(Honor Class)</p><p>Research intern at SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Nov 2017 – Jun 2020 </span></p><hr><p><strong>The Hong Kong University of Science and Technology</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Hong Kong, China</em></p><p>Research intern at the <a href="http://symlab.ust.hk/index.html">HKUST-DT System and Media Laboratory (SyMLab)</a> co-advised by Prof. <a href="http://www.cse.ust.hk/~panhui/">Pan Hui</a> and Prof. <a href="https://plhlee2010.wixsite.com/work">PAUL L.H. LEE</a> <span class="date"> Jul 2019 – Sep 2019</span></p><hr><p><strong>University of Amsterdam</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Amsterdam, The Nethelands</em></p><p>Exchange student in School of Science <span class="date"> Sep 2018 – Jan 2019</span></p><hr>]]></content>
     
     
       
@@ -79,9 +79,9 @@
     <link href="http://example.com/Publications/"/>
     <id>http://example.com/Publications/</id>
     <published>2020-09-29T06:48:13.000Z</published>
-    <updated>2021-12-08T08:01:00.327Z</updated>
+    <updated>2022-01-08T04:03:57.615Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font></p><p><strong>Polygon: A QUIC-Based CDN Server Selection System Supporting Multiple Resource Demands.</strong><br>Mengying Zhou, <strong>Tiancheng Guo</strong>, Yang Chen, Junjie Wan, Xin Wang.<br>Proc. of the 22nd ACM/IFIP Middleware Conference (Middleware’21), Industry Track, Virtual Event, Canada, Dec. 2021.<br><a href="https://dl.acm.org/doi/10.1145/3491084.3491428">[pdf]</a></p><p><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[pdf]</a><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[video]</a></p><p><strong>基于帖文级特征融合的社交网络谣言检测方法.</strong><br>余潇龙, <strong>郭天成</strong>, 陈阳, 王新.<br>录用待发表. 计算机应用与软件.</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Publications</font></p><p><strong>Polygon: A QUIC-Based CDN Server Selection System Supporting Multiple Resource Demands.</strong><br>Mengying Zhou, <strong>Tiancheng Guo</strong>, Yang Chen, Junjie Wan, Xin Wang.<br>Proc. of the 22nd ACM/IFIP Middleware Conference (Middleware’21), Industry Track, Virtual Event, Canada, Dec. 2021.<br><a href="https://dl.acm.org/doi/10.1145/3491084.3491428">[pdf]</a><a href="https://www.youtube.com/watch?v=t_Wqt-jwOLc">[video]</a></p><p><strong>Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction.</strong><br>Qinge Xie, <strong>Tiancheng Guo</strong>, Yang Chen, Yu Xiao, Xin Wang and Ben Y. Zhao.<br>Proc. of the 29th ACM International Conference on Information and Knowledge Management (CIKM’20), Virtual Event, Ireland, Oct. 2020.<br><a href="https://dl.acm.org/doi/10.1145/3340531.3411873">[pdf]</a><a href="https://www.bilibili.com/video/BV1xV411h7nK?from=search&seid=14377801720266015321">[video]</a></p><p><strong>基于帖文级特征融合的社交网络谣言检测方法.</strong><br>余潇龙, <strong>郭天成</strong>, 陈阳, 王新.<br>录用待发表. 计算机应用与软件.</p>]]></content>
     
     
       
@@ -100,14 +100,14 @@
     <link href="http://example.com/Homepage/"/>
     <id>http://example.com/Homepage/</id>
     <published>2020-09-29T06:24:17.000Z</published>
-    <updated>2021-11-06T06:32:05.682Z</updated>
+    <updated>2022-01-08T04:08:33.029Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a first-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font></p><ul><li><font face="STCAIYUN" size=5> Social Computing </font></li><li><font face="STCAIYUN" size=5> Network Portocal(QUIC) </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Nov-6-2021"><a href="#Latest-Upate-Nov-6-2021" class="headerlink" title="Latest Upate: Nov 6, 2021"></a>Latest Upate: Nov 6, 2021</h4>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a second-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font></p><ul><li><font face="STCAIYUN" size=5> Network Portocal(QUIC) </font></li><li><font face="STCAIYUN" size=5> Social Computing </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Jan-8-2022"><a href="#Latest-Upate-Jan-8-2022" class="headerlink" title="Latest Upate: Jan 8, 2022"></a>Latest Upate: Jan 8, 2022</h4>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a first-year M.S. student at Fudan Universit</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a second-year M.S. student at Fudan Universi</summary>
       
     
     
