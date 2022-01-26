@@ -55,17 +55,17 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/Experiment/"/>
-    <id>http://example.com/Experiment/</id>
+    <link href="http://example.com/Experience/"/>
+    <id>http://example.com/Experience/</id>
     <published>2020-09-29T07:56:23.000Z</published>
-    <updated>2022-01-08T04:11:52.303Z</updated>
+    <updated>2022-01-26T14:39:18.280Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Experiment</font></p><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>Master of Philosophy in School of Computer Science</p><p>Master of Philosophy at the SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Sep 2020 – Now</span></p><hr><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>B.S. in School of Computer Science(Honor Class)</p><p>Research intern at SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <span class="date"> Nov 2017 – Jun 2020 </span></p><hr><p><strong>The Hong Kong University of Science and Technology</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Hong Kong, China</em></p><p>Research intern at the <a href="http://symlab.ust.hk/index.html">HKUST-DT System and Media Laboratory (SyMLab)</a> co-advised by Prof. <a href="http://www.cse.ust.hk/~panhui/">Pan Hui</a> and Prof. <a href="https://plhlee2010.wixsite.com/work">PAUL L.H. LEE</a> <span class="date"> Jul 2019 – Sep 2019</span></p><hr><p><strong>University of Amsterdam</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Amsterdam, The Nethelands</em></p><p>Exchange student in School of Science <span class="date"> Sep 2018 – Jan 2019</span></p><hr>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Experience</font></p><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>Master of Philosophy in School of Computer Science</p><p>Master of Philosophy at the SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <code>&lt;span class=&quot;date&quot;&gt;</code> Sep 2020 – Now</p><hr><p><strong>Fudan University</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Shanghai, China</em><br>B.S. in School of Computer Science(Honor Class)</p><p>Research intern at SONIC(Self-Organizing Network and Information Coding Lab)-<a href="http://fudan-msn.weebly.com/">MSN</a>(Mobile Systems and Networking Group)] Lab, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a> <code>&lt;span class=&quot;date&quot;&gt;</code> Nov 2017 – Jun 2020 </p><hr><p><strong>The Hong Kong University of Science and Technology</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Hong Kong, China</em></p><p>Research intern at the <a href="http://symlab.ust.hk/index.html">HKUST-DT System and Media Laboratory (SyMLab)</a> co-advised by Prof. <a href="http://www.cse.ust.hk/~panhui/">Pan Hui</a> and Prof. <a href="https://plhlee2010.wixsite.com/work">PAUL L.H. LEE</a> <code>&lt;span class=&quot;date&quot;&gt;</code> Jul 2019 – Sep 2019</p><hr><p><strong>University of Amsterdam</strong> &nbsp;&nbsp;&nbsp;&nbsp;<em>Amsterdam, The Nethelands</em></p><p>Exchange student in School of Science <code>&lt;span class=&quot;date&quot;&gt;</code> Sep 2018 – Jan 2019</p><hr>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Experiment&lt;/font&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Experience&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fudan University&lt;/strong&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;Shanghai, Chin</summary>
       
     
