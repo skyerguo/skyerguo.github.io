@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-08T03:56:01.750Z</updated>
+  <updated>2023-02-20T03:29:37.371Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,15 +16,15 @@
     <link href="http://example.com/Awards/"/>
     <id>http://example.com/Awards/</id>
     <published>2020-09-29T10:05:42.000Z</published>
-    <updated>2022-01-08T03:56:01.750Z</updated>
+    <updated>2023-02-20T03:29:37.371Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2021<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics(NOI), 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad(APIO), 2015<br><em>Sliver Medal</em>, China Team Selection Competition(CTSC), 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces(NOIP), 2015</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Awards</font></p><p><em>Second Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2022<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2021<br><em>First Prize</em>, Fudan Excellent Academic Scholarship for Master Students, 2020<br><em>Champion</em>, Fudan Collegiate Programming Contest, 2017<br><em>Third Prize</em>, Scholarship for OutStanding Students, 2017<br><em>Bronze Medal</em>, National Olympiad in Informatics(NOI), 2015<br><em>Sliver Medal</em>, Asia Pacific Informatics Olympiad(APIO), 2015<br><em>Sliver Medal</em>, China Team Selection Competition(CTSC), 2015<br><em>First Prize</em>, National Olympiad in Informatics in Provinces(NOIP), 2015</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;Awards&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;First Prize&lt;/em&gt;, Fudan Excellent Academic Scholarship for Master Students, </summary>
+&lt;p&gt;&lt;em&gt;Second Prize&lt;/em&gt;, Fudan Excellent Academic Scholarship for Master Students,</summary>
       
     
     
@@ -37,9 +37,9 @@
     <link href="http://example.com/Research/"/>
     <id>http://example.com/Research/</id>
     <published>2020-09-29T07:56:38.000Z</published>
-    <updated>2022-01-08T04:09:31.268Z</updated>
+    <updated>2023-02-20T03:31:57.781Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We improve network routing structure on global and regional distributed data centers based on user demands.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat mini-program to collect data from non-profile grassroots community work and analyze the social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features. This work has been accepted by CIKM’ 20.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">One Thumb Miniature-Size Keyboard on Touchscreen Interface</font><span class="date"> Jul 2019 - Nov 2019 </span><br><font face="Verdana" size=3/> A new text input method with one thumb is proposed by us for miniature-size keyboard, improving user experience with detailed user studies.</p>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>Research</font></p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">User Awareness-Based Network Routing Structure</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We improve network routing structure on global and regional distributed data centers based on user demands.<br>This work </p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;"> Big Data Driven Community Management Platform for Non-Profile Organizations</font><span class="date"> Feb 2020 - Now </span><br><font face="Verdana" size=3/> We build a wechat mini-program to collect data from non-profile grassroots community work and analyze the social patterns.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Deep Graph Convolutional Networks for Incident-driven Traffic Speed Prediction</font><span class="date"> Mar 2019 - Now </span><br><font face="Verdana" size=3/> We propose DIGC-Net to effectively incorporate traffic incident, spatio-temporal, periodic and context features.   </p><p>This work has been accepted by CIKM’20.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">Prediction of Heart Rate with Outdoor Running Exercise: Models and Performance Analytics</font><span class="date"> Jul 2019 - Dec 2019 </span><br><font face="Verdana" size=3/> We perform experimental analytics with six different models on a large dataset of outdoor running exercise collected from wearable devices.</p><p><font face="STCAIYUN" size=4 style="font-weight:bolder;">One Thumb Miniature-Size Keyboard on Touchscreen Interface</font><span class="date"> Jul 2019 - Nov 2019 </span><br><font face="Verdana" size=3/> A new text input method with one thumb is proposed by us for miniature-size keyboard, improving user experience with detailed user studies.</p>]]></content>
     
     
       
@@ -100,14 +100,14 @@
     <link href="http://example.com/Homepage/"/>
     <id>http://example.com/Homepage/</id>
     <published>2020-09-29T06:24:17.000Z</published>
-    <updated>2022-01-08T04:08:33.029Z</updated>
+    <updated>2023-02-20T03:26:36.474Z</updated>
     
-    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a second-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors degree(2020) from School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interest</font></p><ul><li><font face="STCAIYUN" size=5> Network Portocal(QUIC) </font></li><li><font face="STCAIYUN" size=5> Social Computing </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Jan-8-2022"><a href="#Latest-Upate-Jan-8-2022" class="headerlink" title="Latest Upate: Jan 8, 2022"></a>Latest Upate: Jan 8, 2022</h4>]]></content>
+    <content type="html"><![CDATA[<p><font face="STCAIYUN" size=8 bold=2>About Me</font><br><font face="STCAIYUN" size=5><br>I am a third-year M.S. student at Fudan University. My advisor is Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>. Prior to that, I obtained my Bachelors Degree(2020) from Honor Class, School of Computer Science, Fudan University, under the supervision of Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>.<br></font></p><p><font face="STCAIYUN" size=8 bold=2>Research Interests</font></p><ul><li><font face="STCAIYUN" size=5> Network Portocal(QUIC) </font></li><li><font face="STCAIYUN" size=5> CDN </font></li><li><font face="STCAIYUN" size=5> Social Network </font></li><li><font face="STCAIYUN" size=5> Urban Mobility  </font></li></ul><h4 id="Latest-Upate-Feb-20-2023"><a href="#Latest-Upate-Feb-20-2023" class="headerlink" title="Latest Upate: Feb 20, 2023"></a>Latest Upate: Feb 20, 2023</h4>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a second-year M.S. student at Fudan Universi</summary>
+    <summary type="html">&lt;p&gt;&lt;font face=&quot;STCAIYUN&quot; size=8 bold=2&gt;About Me&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;STCAIYUN&quot; size=5&gt;&lt;br&gt;I am a third-year M.S. student at Fudan Universit</summary>
       
     
     
